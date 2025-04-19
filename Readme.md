@@ -25,7 +25,7 @@ A fast-paced, real-time multiplayer quiz application built with Python's UDP soc
 
 1. Clone this repository or download the source code:
    ```bash
-   git clone https://github.com/harsh-5401/multiplayer-quiz-game.git
+   https://github.com/harsh-5401/Real-Time-Multiplayer-Quiz-Application.git
    cd multiplayer-quiz-game
    ```
 
